@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+.CFUserTextEncoding
+.vscode/
+.zsh_history
+.Trash/
+Library/
+bin/
+
+# Ignore other personal directories
+../*
+
